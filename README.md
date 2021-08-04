@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Eu me chamo Rafael Kenzo</h1>
 <h3 align="center">Desenvolvedor WEB</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelknz)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelknz&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelknz" /> </p>
 
 - 🌱 I’m currently learning **VueX**
